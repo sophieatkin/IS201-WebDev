@@ -1,0 +1,75 @@
+body {
+    background-color:rgb(223, 168, 132);
+}
+ .tab {
+     margin-left: 118px;
+    }
+
+.tab img {
+    display: inline;
+    margin: 20px;
+    vertical-align: top;
+
+}
+
+ 
+h5 {   
+    font-weight: 940;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.textColor {
+    color: rgb(80, 80, 80);
+}
+
+#BackToTop {
+    text-decoration: none; 
+    color: white;
+    background-color: #333;
+    padding: 10px;
+    display: block;
+    width: 150px;
+    text-align: center;
+    transition: 0.3s;
+    margin-left: 20px;
+  }
+  
+  #BackToTop:hover {
+    font-size: 17px;
+    border-radius: 5px;
+  }
+
+  #frankLink {
+      margin: auto;
+      color: rgb(6, 87, 67);
+      padding: 0px 32%;
+      text-align: center;
+      transition: 0.3s;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 25px;
+  }
+
+  #frankLink:hover {
+      font-size: 26px;
+      text-decoration: underline;
+  }
+
+  #metLink {
+   margin-left: 10px;
+    color: rgb(6, 87, 67);
+    
+    text-align: center;
+    transition: 0.3s;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+#metLink:hover {
+    font-size: 26px;
+    text-decoration: underline;
+}
